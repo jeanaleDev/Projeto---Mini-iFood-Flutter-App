@@ -1,7 +1,9 @@
 # projeto_mini_ifood
 
 A new Flutter project.
-Funcionalidades do mini iFood:
+
+>Funcionalidades do mini iFood:
+
 - 📋 Listagem de produtos
 - 🗂️ Filtro por categorias (Pratos, Doces, Sobremesas, Lanches)
 - 🔍 Tela de detalhes do produto
@@ -12,16 +14,20 @@ Funcionalidades do mini iFood:
 - 🎉 Tela de sucesso animada
 - 📱 Layout responsivo
 - 🎨 Tema customizado
-Arquitetura:
-- **MVC simplificado**
-- **Provider** para gerenciamento de estado
+
+  
+>Arquitetura:
+
+- MVC simplificado
+- Provider para gerenciamento de estado
 - Separação clara entre:
   - `pages`
   - `models`
   - `controllers`
   - `widgets`
   - `theme`
-Tecnologias:
+    
+>Tecnologias:
 - Flutter
 - Dart
 - Provider
